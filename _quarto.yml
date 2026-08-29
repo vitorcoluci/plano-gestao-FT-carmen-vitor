@@ -11,20 +11,23 @@ website:
     left:     
       - href: quem-somos.qmd
         text: Quem somos 
-      - href: pesquisa.qmd
-        text: Pesquisa
-      - href: extensao.qmd
-        text: Extensão
+      - href: comunicacao.qmd
+        text: Comunicação Institucional
       - href: gestao.qmd
-        text: Gestão
+        text: Gestão de pessoas
+      - href: direitos-humanos.qmd
+        text: Direitos humanos
       - href: graduacao.qmd
         text: Graduação
       - href: pos-graduacao.qmd
         text: Pós-graduação
+      - href: pesquisa.qmd
+        text: Pesquisa
+      - href: extensao.qmd
+        text: Extensão
       - href: infra.qmd
         text: Infraestrutura
-      - href: direitos-humanos.qmd
-        text: Direitos humanos
+      
   page-footer:
     "Plano de Gestão FT - Carmem & Vitor - 2026"
 
@@ -33,9 +36,7 @@ format:
   html:
     lang: pt
     page-layout: full
-    theme:
-      light: [flatly, light_mode.scss]
-      dark: [darkly, dark_mode.scss]
+    theme: [flatly, custom.scss]
     css: 
        - styles.css
     toc: true

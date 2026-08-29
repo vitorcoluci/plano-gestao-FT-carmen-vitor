@@ -86,7 +86,6 @@ Entendemos que a discussão sobre carga didática deve ir além da simples conta
 
 Uma questão central é garantir que os estudantes disponham de tempo adequado para o estudo individual e para atividades colaborativas orientadas. Nenhuma metodologia de ensino substitui o tempo necessário para a reflexão, a consolidação do conhecimento e a resolução de problemas. Essa discussão torna-se ainda mais relevante para muitos estudantes da FT que conciliam a graduação com atividades profissionais e que, frequentemente, têm nas aulas presenciais seus principais momentos de contato com os conteúdos das disciplinas.
 
-% curso de 5 anos
 
 ## Fortalecer a inserção da extensão na graduação
 
