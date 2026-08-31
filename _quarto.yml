@@ -34,7 +34,7 @@ website:
 
 format:
   html:
-    fontsize: "1.6em"
+    fontsize: "1.4em"
     lang: pt
     page-layout: full
     theme: [flatly, custom.scss]
