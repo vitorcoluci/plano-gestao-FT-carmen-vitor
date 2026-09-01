@@ -4,7 +4,6 @@ title: Graduação
 
 A graduação é o coração de uma Faculdade. É nela que tudo se inicia. Nós, docentes, ingressamos na Universidade por meio de concursos vinculados a disciplinas de graduação e, a partir dessa atuação, desenvolvemos também nossas atividades de pesquisa, extensão e ensino na pós-graduação. Da mesma forma, os servidores não docentes atuam em diferentes áreas, contribuindo, direta ou indiretamente, para a formação de nossos estudantes e para o pleno funcionamento da graduação.
 
-
 Nossa gestão atuará em articulação com as Coordenações de Curso, Comissões de Graduação, Núcleos Docentes Estruturantes oferecendo suporte institucional para o desenvolvimento dos cursos. As ações estarão organizadas em torno do acolhimento e da permanência estudantil, da melhoria contínua do ensino, do planejamento acadêmico, da inserção da extensão, da modernização dos ambientes de aprendizagem e do equilíbrio da carga didática.
 
 ## Acolhimento, Acompanhamento e Permanência
@@ -18,7 +17,7 @@ Uma das prioridades será ampliar as ações de acolhimento e integração dos e
 
 Propomos a implementação de um programa de recepção aos ingressantes, que inclua palestras com especialistas sobre temas de interesse acadêmico e profissional, apresentações sobre os serviços e oportunidades oferecidos pela UNICAMP e pela FT, além de visitas guiadas aos diferentes espaços da Faculdade, especialmente aos laboratórios de ensino e pesquisa. Essas atividades deverão ocorrer preferencialmente durante o primeiro mês letivo, favorecendo a integração dos estudantes à comunidade acadêmica e estimulando sua participação nas diversas iniciativas da FT.
 
-Em relação à permanência estudantil, pensamos que ações integradores podem ser realizadas para se criar um senso de pertencimento com a FT. Uma dessas ações é a do trabalho voluntário ([Lei do Voluntariado n$^o$ 9.608/1998](https://www.planalto.gov.br/ccivil_03/leis/l9608.htm)), que promove o crescimento pessoal de quem oferece seu tempo em benefício do lugar ou pessoa que recebe o trabalho realizado. Diversos projetos com alunos da FT tem sido realizados voluntariamente em escolas públicas e em outras entidades de Limeira e região. Com o objetivo de incentivar o trabalho voluntário, iremos propor o projeto _Nosso Campus_, que será constituído de ações a serem realizadas pela comunidade FT -- alunos, docentes e servidores -- visando melhorias do campus. Exemplos dessas ações são a revitalização e pintura de paredes e bancos, a realização de pequenos reparos, jardinagem, construção de hortas comunitárias, limpeza de áreas externas. Acreditamos que tais ações poderão ajudar na integração da comunidade FT, criando um senso de pertencimento e de cuidado com o bem público da própria Universidade.
+Em relação à permanência estudantil, pensamos que ações integradores podem ser realizadas para se criar um senso de pertencimento com a FT. Diversos projetos com alunos da FT são realizados voluntariamente em escolas públicas e em outras entidades de Limeira e região. Com o objetivo de incentivar o trabalho voluntário, iremos propor o projeto _Nosso Campus_, que será constituído de ações a serem realizadas pela comunidade FT -- alunos, docentes e servidores -- visando melhorias do campus. Acreditamos que tais ações poderão ajudar na integração da comunidade FT, criando um senso de pertencimento e de cuidado com o bem público da própria Universidade.
 
 ## Promover a melhoria contínua da qualidade do ensino de graduação
 
@@ -46,7 +45,7 @@ Outro importante avanço alcançado durante a atual gestão foi a aprovação do
 
 Essas experiências demonstram a importância de uma gestão capaz de conduzir processos complexos de planejamento acadêmico, dialogando com diferentes instâncias da Universidade e construindo soluções que conciliem inovação, responsabilidade institucional e visão estratégica para o futuro da Faculdade.
 
-Entendemos, entretanto, que o desenvolvimento da FT deve ser um processo contínuo. Nesse sentido, buscaremos incentivar a criação de novos cursos de graduação em áreas estratégicas, bem como promover a atualização permanente dos projetos pedagógicos e o fortalecimento dos cursos já existentes, garantindo que permaneçam alinhados às transformações científicas, tecnológicas e às demandas da sociedade.
+Entendemos, entretanto, que o desenvolvimento da FT deve ser um processo contínuo. Nesse sentido, buscaremos discutir a criação de novos cursos de graduação em áreas estratégicas, bem como promover a atualização permanente dos projetos pedagógicos e o fortalecimento dos cursos já existentes, garantindo que permaneçam alinhados às transformações científicas, tecnológicas e às demandas da sociedade.
 
 A criação de novos cursos ou modalidades de formação será precedida por estudos de viabilidade acadêmica e institucional. Esses estudos deverão considerar a relevância social da proposta, sua aderência às competências da FT, a demanda potencial, a disponibilidade docente, as necessidades de infraestrutura, o impacto sobre os cursos existentes e sua sustentabilidade no longo prazo.
 
@@ -93,6 +92,4 @@ A inserção da extensão nos cursos de graduação representa uma oportunidade 
 
 Criaremos um espaço de articulação entre Graduação e Extensão para compartilhar experiências, orientar a elaboração das atividades, apoiar a relação com parceiros e identificar oportunidades comuns aos diferentes cursos. Também buscaremos organizar, com o apoio e coordenação da Coordenação de Extensão, um cadastro institucional de órgãos públicos, empresas, organizações sociais e comunidades interessadas em colaborar com projetos acadêmicos e extensionistas.
 
-Em conjunto com as Coordenações de Graduação e de Extensão, acompanharemos a implantação das atividades de extensão previstas nos projetos pedagógicos, identificando necessidades de suporte administrativo, infraestrutura, transporte, formalização de parcerias e avaliação. 
-
-O objetivo será qualificar essas experiências e evitar que a busca por parceiros e a organização das atividades recaiam isoladamente sobre docentes e estudantes.
+Em conjunto com as Coordenações de Graduação e de Extensão, acompanharemos a implantação das atividades de extensão previstas nos projetos pedagógicos, identificando necessidades de suporte administrativo, infraestrutura, transporte, formalização de parcerias e avaliação. O objetivo será qualificar essas experiências e evitar que a busca por parceiros e a organização das atividades recaiam isoladamente sobre docentes e estudantes.

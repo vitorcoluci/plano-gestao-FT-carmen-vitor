@@ -6,7 +6,7 @@ Desde a sua criação em 2009, o Programa de Pós-Graduação em Tecnologia — 
 
 ## Fortalecer a preparação institucional para a avaliação da CAPES
 
-A avaliação da CAPES deve ser compreendida como um \textbf{processo institucional e coletivo}, que envolve a Coordenação do Programa, a Comissão de Pós-Graduação, a Comissão de Autoavaliação, os docentes, os estudantes, os egressos e a gestão da Unidade. Mais do que o preenchimento e o envio periódico de informações, esse processo exige acompanhamento contínuo, análise dos resultados e planejamento de ações voltadas ao desenvolvimento do Programa. Nesse sentido, entendemos ser necessário:
+A avaliação da CAPES deve ser compreendida como um **processo institucional e coletivo**, que envolve a Coordenação do Programa, a Comissão de Pós-Graduação, a Comissão de Autoavaliação, os docentes, os estudantes, os egressos e a gestão da Unidade. Mais do que o preenchimento e o envio periódico de informações, esse processo exige acompanhamento contínuo, análise dos resultados e planejamento de ações voltadas ao desenvolvimento do Programa. Nesse sentido, entendemos ser necessário:
 
 - fortalecer a participação da Comissão de Autoavaliação (CAA) no acompanhamento do Programa;
 
@@ -21,7 +21,6 @@ A avaliação da CAPES deve ser compreendida como um \textbf{processo institucio
 - promover uma atuação articulada entre a Coordenação do Programa, a Comissão de Pós-Graduação, a CAA e a Direção da Unidade;
 
 - preparar o PPGT de forma contínua e coletiva para o próximo ciclo avaliativo da CAPES.
-\end{enumerate}
 
 ## Desenvolver estratégias para o fortalecimento do PPGT
 
@@ -53,7 +52,7 @@ O PPGT tem como um de seus principais objetivos oferecer aos mestrandos e doutor
 
 ## Discutir sobre a criação de novos programas de pós-graduação
 
-O crescimento da FT, a diversidade de seu corpo docente e a consolidação de novas áreas de ensino e pesquisa criam oportunidades para a discussão sobre a ampliação da Pós-Graduação na Unidade. A criação de novos programas, entretanto, deve resultar de um \textbf{processo coletivo de planejamento}, fundamentado nas competências existentes, nas demandas da sociedade e nas condições acadêmicas e institucionais necessárias à sua sustentabilidade. Nesse sentido, pretendemos:
+O crescimento da FT, a diversidade de seu corpo docente e a consolidação de novas áreas de ensino e pesquisa criam oportunidades para a discussão sobre a ampliação da Pós-Graduação na Unidade. A criação de novos programas, entretanto, deve resultar de um **processo coletivo de planejamento**, fundamentado nas competências existentes, nas demandas da sociedade e nas condições acadêmicas e institucionais necessárias à sua sustentabilidade. Nesse sentido, pretendemos:
 
 - promover discussões com o corpo docente sobre as possibilidades de criação de novos programas de pós-graduação;
 
