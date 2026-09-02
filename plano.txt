@@ -1,0 +1,418 @@
+---
+title: Quem somos
+---
+
+## [Profa. Carmenlucia Santos Giordano Penteado](http://lattes.cnpq.br/6694143241761752)
+
+::: {.centerText}
+![](figs/foto-carmen.jpg){width=30%}
+:::
+
+Sou engenheira química formada pela Universidade Federal do Paraná (UFPR), mestre em Engenharia Química pela Universidade Federal de São Carlos (UFSCar) e doutora em Ciências da Engenharia Ambiental pela Universidade de São Paulo (USP), com período de doutorado sanduíche na University of Nebraska–Lincoln (UNL), nos Estados Unidos.
+Atualmente, sou Professora Livre-Docente, e atuo na graduação e na pós-graduação da FT, ministrando disciplinas nas áreas de Produção Mais Limpa e Gerenciamento de Resíduos Sólidos. Minha trajetória acadêmica é pautada pela integração entre ensino, pesquisa, extensão e gestão universitária, com atuação em pesquisas na área de gestão e gerenciamento de resíduos sólidos.
+
+Exerci a função de Coordenadora de Extensão entre 2009 e 2010, participei de três operações do Projeto Rondon e desenvolvi diversas ações extensionistas, reconhecidas com o Prêmio PROEC de Extensão Universitária em 2023. Neste mesmo ano, fui homenageada pela Prefeitura Municipal de Campinas, com o Diploma de Mérito Socioambiental “Paulo Nogueira Neto”, em reconhecimento à minha contribuição para as questões socioambientais, no âmbito da Semana Municipal do Meio Ambiente. 
+
+No ensino, recebi o Prêmio de Reconhecimento Docente pela Dedicação ao Ensino de Graduação em 2021, distinção que representa o compromisso permanente com a formação de qualidade de nossos estudantes.
+
+Minha experiência em gestão acadêmica iniciou-se na Coordenação de Graduação, entre 2011 e 2013, período em que me dediquei profundamente na criação do Curso de Engenharia Ambiental, tendo sido sua primeira coordenadora. Posteriormente, coordenei novamente esse curso, entre 2015 e 2018, conduzindo etapas importantes de sua consolidação, incluindo o reconhecimento junto ao Conselho Estadual de Educação.
+
+Desde 2023, exerço a função de Diretora Associada da FT, participando ativamente da administração da Unidade e de diferentes comissões e órgãos colegiados da Faculdade e da Universidade. Essa vivência ampliou minha compreensão dos desafios institucionais, fortaleceu minha capacidade de gestão e proporcionou uma visão integrada das diferentes dimensões que sustentam uma universidade pública de excelência.
+Essa trajetória, construída ao longo de anos de dedicação à UNICAMP e à Faculdade de Tecnologia, permitiu conhecer de perto as potencialidades da nossa Unidade, bem como os desafios que ainda precisam ser enfrentados. Também reforçou a convicção de que a construção de soluções duradouras depende do diálogo permanente, da participação da comunidade, do planejamento e da gestão compartilhada.
+
+## [Prof. Vitor R. Coluci](https://vitorcoluci.github.io/homepage-vitor/)
+
+::: {.centerText}
+![](figs/vitor_coluci.jpg){width=30%}
+:::
+
+Sou físico formado pela UNICAMP, realizei meu mestrado e doutorado também na UNICAMP, com estágio na Universidade do Texas/Dallas--EUA. Sou professor titular da UNICAMP e, na FT, leciono disciplinas de graduação nas áreas de Física e Matemática e de Escrita Acadêmica na pós-graduação. Trabalho com pesquisa na área de [simulações computacionais de nanomateriais baseados em carbono](https://youtu.be/Rc8abBkuWtU) e na área de Ensino de Física. 
+
+Coordeno o [Laboratório de Simulação e Computação de Alto Desempenho](https://cluster.ft.unicamp.br) onde se encontra um dos equipamentos multi-usuários da FT.  Coordeno ainda o [Explora](https://explora.ft.unicamp.br/), um espaço de ensino, pesquisa e extensão. Concebi e organizei os  [Workshops de Práticas de Ensino da FT](https://wordpress.ft.unicamp.br/workshopensino/), com o objetivo de fomentar melhorias no Ensino. Em 2019, recebi o Prêmio de Reconhecimento Docente pela Dedicação ao Ensino de Graduação. Em 2025 e 2026 idealizei e presidi a Comissão da [FT de Portas Abertas](https://vitorcoluci.github.io/ftpa/), em um esforço conjunto com a Direção e Coordenações de Cursos, para ampliar a divulgação dos nossos cursos para estudantes de Limeira e região. 
+
+Na Pós-graduação, entre 2013 e 2015, atuei como [Coordenador do PPGT](https://wordpress.ft.unicamp.br/vitor/wp-content/uploads/sites/30/2019/06/relatorio-gestao-vitor-2013-2015.pdf). Nesse período, contribuí para a criação e implementação do Programa de Doutorado (2014) e para a elevação da nota da Capes do Programa de 3 para 4. Idealizei e coordenei a implantação do [sistema de gerenciamento da pós-graduação (SGPG)](https://sistemas.ft.unicamp.br/sgpg/login.php), que é usado até hoje nos processos seletivos e acompanhamento de bolsistas CAPES e que foi expandido para a graduação e usado na submissão dos planos de ensino pelos docentes. Um outro sistema implantado na época foi o Programa de Avaliação da Pós-graduação (PAPG), voltado para a avaliação das disciplinas de pós-graduação. Ainda como coordenador de pós-graduação, reestruturei a página web do PPGT com a estrutura que foi mantida até hoje. Recentemente, participei também da Comissão de Auto-avaliação do PPGT, o que gerou um [relatório detalhado](https://www.ft.unicamp.br/sites/default/files/relatorio_autoavaliacao_ppgt_0.pdf) sobre o Programa. 
+
+De 2010 a 2013 fui coordenador de Pesquisa, atuando como presidente da recém implementada Comissão de Pesquisa da FT. Ações tomadas na época envolveram o oferecimento de cursos de escrita científica a docentes e alunos, assessoria aos docentes na elaboração de projetos de pesquisa, assessoria no gerenciamento de reserva técnica de auxílios e organização de seminários/colóquios de pesquisa de pesquisadores externos à Unidade. Represento atualmente a FT no Conselho de Orientação FAEPEX e sou membro da Comissão de Pesquisa da FT. 
+
+Na Extensão, tenho trabalhado em alguns projetos, dentre eles o [projeto IDEIA](https://www.youtube.com/watch?v=TmjUGAk4E48) voltado para crianças com altas habilidades e o [projeto Musicalizando](https://youtu.be/fwiytFiYVE8) voltado para a população 50+. Tenho participado de várias comissões administrativas, como a da avaliação de disciplinas, da implementação do novo curso de Ciência de Dados e Inteligência Artificial, do núcleo docente estruturante da área de Computação e do Comitê Local para a Gestão de Privacidade e Proteção de Dados Pessoais. Um pouco mais sobre minha trajetória profissional pode ser visto na [entrevista](https://www.youtube.com/watch?v=Ho2Xfxk-g9g) feita por Thiago Feitosa do Prisma Cast.
+---
+title: Comunicação Institucional e Orientação à Comunidade
+---
+
+A comunicação institucional é uma dimensão estratégica da gestão universitária. Quando organizada de forma clara, acessível e contínua, ela amplia a transparência, facilita o acesso aos serviços e às oportunidades, fortalece a participação nos processos institucionais e contribui para o sentimento de pertencimento da comunidade. Também permite dar maior visibilidade às contribuições da FT para a formação de profissionais, a produção de conhecimento, a inovação e a transformação da sociedade.
+
+Nossa proposta é estruturar a comunicação institucional da FT em duas frentes complementares: a comunicação interna, voltada à circulação de informações e à orientação da comunidade; e a comunicação externa, destinada à divulgação qualificada das atividades e realizações da FT. Essas frentes serão apoiadas por fluxos institucionais bem definidos, pela consolidação do novo site, pela organização das mídias sociais e pela articulação com os órgãos de comunicação da Universidade.
+
+## Fortalecer a comunicação interna e a transparência
+
+Uma comunicação interna eficiente depende da circulação regular e organizada das informações produzidas pela Direção, pelas seções administrativas, pelas Coordenações de Curso e pelos órgãos colegiados. Atualmente, informações relevantes são divulgadas por diferentes canais e, muitas vezes, de forma dispersa, dificultando seu acompanhamento pela comunidade.
+
+Nesse sentido, estabeleceremos um fluxo institucional de comunicação, com definição de canais, periodicidade e responsabilidades para o encaminhamento e a divulgação das informações. Essa organização permitirá ampliar a previsibilidade da comunicação, reduzir a dispersão de conteúdos e facilitar o acesso da comunidade às decisões institucionais, aos prazos, aos editais, às oportunidades acadêmicas e às orientações dos diferentes setores da Faculdade.
+
+Entre as iniciativas previstas está a criação do **Boletim FT**, publicação eletrônica periódica que reunirá informações da Direção, das seções administrativas, das Coordenações de Curso e dos órgãos colegiados. O boletim deverá apresentar, de maneira sintética e acessível, as principais decisões institucionais, os prazos, os editais, as oportunidades, os eventos e outros assuntos de interesse da comunidade. Edições extraordinárias poderão ser produzidas quando a relevância ou a urgência das informações assim exigir.
+
+Também buscaremos consolidar canais institucionais para o recebimento de sugestões, o esclarecimento de dúvidas e o encaminhamento de demandas. O objetivo é facilitar a orientação da comunidade e fortalecer uma cultura de participação, corresponsabilidade e melhoria contínua dos processos institucionais.
+
+## Consolidar o site institucional da FT
+
+O novo site da FT será consolidado como principal referência para o acesso às informações institucionais da Faculdade. Seus conteúdos deverão ser organizados de acordo com as necessidades de estudantes, docentes, servidores técnico-administrativos e público externo, com linguagem clara, navegação intuitiva, acessibilidade e atualização permanente.
+
+Para assegurar a confiabilidade das informações, serão definidas responsabilidades e rotinas de revisão das páginas dos diferentes setores, cursos, comissões e órgãos colegiados. O site também deverá reunir orientações sobre serviços, procedimentos e canais de atendimento, permitindo que a comunidade encontre com maior facilidade as informações necessárias para suas atividades acadêmicas e administrativas.
+
+## Organizar e qualificar a comunicação externa
+
+A comunicação externa será orientada pela valorização das realizações da comunidade da FT e pela divulgação qualificada de suas contribuições para a Universidade e para a sociedade. Para isso, criaremos um fluxo permanente para identificação, seleção e encaminhamento de pautas relacionadas ao ensino, à pesquisa, à extensão, à inovação e à gestão universitária.
+
+Docentes, servidores técnico-administrativos, estudantes, laboratórios, grupos de pesquisa e organizações estudantis poderão encaminhar sugestões de pautas por meio de um canal institucional. A divulgação será orientada por critérios de relevância institucional, interesse público, clareza da informação e potencial de impacto social, buscando representar de maneira equilibrada as diferentes áreas, atividades e segmentos da Faculdade.
+
+Fortaleceremos a articulação com a Secretaria Executiva de Comunicação, o Jornal da Unicamp e os demais canais institucionais da Universidade, encaminhando regularmente pautas qualificadas sobre projetos, pesquisas, eventos, iniciativas acadêmicas e contribuições da FT para a sociedade.
+
+Em conjunto com a Secretaria Executiva de Comunicação, buscaremos também ampliar o relacionamento com veículos de comunicação externos, facilitando o acesso da imprensa a especialistas, pesquisas e projetos de interesse público. Para apoiar essa iniciativa, propomos organizar um banco institucional de fontes e áreas de especialidade, respeitada a disponibilidade dos docentes e pesquisadores, ampliando a participação da FT no debate público e na divulgação científica.
+
+## Estabelecer diretrizes para as mídias sociais institucionais
+
+As mídias sociais constituem importantes canais de relacionamento com estudantes, futuros ingressantes, egressos, instituições parceiras e a sociedade. Sua utilização, entretanto, deve estar apoiada em critérios que assegurem a confiabilidade das informações, a identidade institucional e a continuidade dos canais, independentemente das pessoas responsáveis por sua administração em cada período.
+
+Propomos elaborar diretrizes para a gestão das mídias sociais institucionais da FT, contemplando a identificação dos perfis oficiais, a definição de responsabilidades, os critérios de publicação, a identidade visual e os procedimentos para criação, manutenção e encerramento de contas. Essas diretrizes serão construídas em consonância com as políticas de comunicação da DETIC e da Unicamp, e respeitarão a autonomia acadêmica e a diversidade das iniciativas desenvolvidas na Faculdade.
+
+Também será promovida maior integração entre o site e as mídias sociais, de modo que esses canais desempenhem funções complementares: o site como fonte oficial e permanente de informações, e as redes sociais como instrumentos de divulgação, mobilização e aproximação com os diferentes públicos.
+
+## Promover uma comunicação acessível, segura e responsável
+
+Todas as ações de comunicação da FT serão orientadas pelos princípios da acessibilidade, confiabilidade, transparência, proteção de dados pessoais e segurança da informação. A ampliação dos canais de comunicação deverá ser acompanhada de cuidados relacionados ao uso de imagens, listas de contatos, formulários, inscrições em eventos, bancos de dados, sites e mídias sociais.
+
+Em articulação com o Comitê Local para a Gestão de Privacidade e Proteção de Dados Pessoais, promoveremos orientações periódicas para docentes, servidores técnico-administrativos e estudantes responsáveis por canais e iniciativas institucionais. Essas ações buscarão assegurar a conformidade dos processos de comunicação com a Lei Geral de Proteção de Dados, com a Política de Privacidade da Unicamp e com as demais normas institucionais de segurança da informação.
+
+Com essas iniciativas, pretendemos construir uma política de comunicação mais integrada, profissional e próxima da comunidade, capaz de facilitar o acesso à informação, fortalecer a transparência, qualificar a participação institucional e ampliar o reconhecimento da Faculdade de Tecnologia dentro e fora da Universidade.---
+title: Direitos Humanos
+---
+
+A construção de uma comunidade acadêmica plural, acolhedora e respeitosa depende do compromisso permanente com a promoção da inclusão, da diversidade, da equidade e dos direitos humanos. Mais do que atender às diretrizes institucionais, esses princípios devem orientar as relações interpessoais, as práticas pedagógicas, os processos de gestão e a convivência cotidiana, fortalecendo uma cultura baseada no respeito, no diálogo e na valorização das diferenças.
+
+Como iniciativa estruturante, fortaleceremos o Espaço de Acolhimento da FT como referência local para a escuta inicial, a orientação e o encaminhamento de demandas da comunidade. Buscaremos ampliar sua divulgação, esclarecer suas atribuições e formas de acesso e incentivar a formação de novos integrantes, em articulação com a Diretoria Executiva de Direitos Humanos e com os demais órgãos especializados da Universidade.
+
+Fortaleceremos a prevenção e o enfrentamento das diferentes formas de discriminação, assédio e violência por meio da divulgação permanente dos canais institucionais de orientação, acolhimento e encaminhamento. Em articulação com a Diretoria Executiva de Direitos Humanos (DEDH), ampliaremos o conhecimento da comunidade sobre serviços especializados da Unicamp, como o Serviço de Atendimento e Encaminhamento Institucional das Denúncias de Racismo (SAER) e o Serviço de Atenção à Violência Sexual (SAVS), buscando aproximar essas estruturas dos campi de Limeira.
+
+Instituiremos uma agenda permanente de formação em direitos humanos, construída em parceria com a Diretoria Executiva de Direitos Humanos e outros órgãos da Universidade. Essa agenda incluirá atividades periódicas destinadas a estudantes, docentes e servidores técnico-administrativos, abordando temas como convivência respeitosa, prevenção às discriminações, acessibilidade, equidade e conhecimento dos canais institucionais de acolhimento e encaminhamento.
+
+Em articulação com as Coordenações de Curso, os Núcleos Docentes Estruturantes e as Comissões de Graduação, apoiaremos a discussão sobre a presença, sempre que pertinente aos objetivos formativos de cada curso, de temas relacionados aos direitos humanos, à acessibilidade, à diversidade, à cidadania e à responsabilidade socioambiental nos projetos pedagógicos e nas atividades acadêmicas. 
+
+Realizaremos, com a participação da comunidade e em articulação com os órgãos competentes da Universidade, um diagnóstico das barreiras físicas, comunicacionais, pedagógicas e digitais existentes na FT. A partir desse levantamento, estabeleceremos prioridades e um plano progressivo de adequações, considerando a urgência das demandas, o impacto sobre a participação da comunidade e a disponibilidade de recursos. 
+
+Também ampliaremos a orientação aos docentes e servidores técnico-administrativos sobre acessibilidade pedagógica, produção de documentos acessíveis, atendimento inclusivo e utilização dos recursos institucionais disponíveis. Essas ações serão desenvolvidas em articulação com a Comissão Assessora de Acessibilidade, a DEAPE, o EA² e outras estruturas especializadas da Universidade. 
+
+Apoiar e estimular as coordenações de graduação no uso sistemático dos painéis institucionais de evasão e retenção para acompanhar a trajetória acadêmica dos estudantes. A partir dos dados de cada curso, identificar componentes curriculares e períodos críticos, estimulando e subsidiando a criação de ações preventivas em conjunto com as Coordenações de Curso.
+
+Além disso, buscaremos ampliar as iniciativas voltadas à promoção da igualdade de gênero e da diversidade em todos os espaços da Faculdade, incentivando a participação equitativa nos processos decisórios, em atividades acadêmicas e em posições de liderança, valorizando diferentes trajetórias e perspectivas.
+
+Acreditamos que uma universidade pública de excelência deve ser também um espaço de acolhimento, respeito e promoção da cidadania. Por isso, trabalharemos para consolidar uma cultura institucional que reconheça a diversidade como um patrimônio da comunidade acadêmica e como elemento essencial para a formação de profissionais, pesquisadores e cidadãos comprometidos com uma sociedade mais justa, democrática, inclusiva e socialmente responsável.---
+title: Gestão Institucional e de Pessoas
+---
+
+O fortalecimento institucional da FT depende do aperfeiçoamento contínuo de seus instrumentos de gestão, da valorização das pessoas e da consolidação de processos administrativos cada vez mais claros, eficientes e transparentes. Para isso, é fundamental promover uma gestão participativa, capaz de envolver a comunidade acadêmica na construção e no aprimoramento das normas, procedimentos e práticas institucionais, assegurando que esses instrumentos acompanhem a evolução da Unidade e respondam às demandas atuais e futuras.
+
+Nesse contexto, propomos retomar a discussão do Regimento Interno da FT, articulada à revisão da Certificação da Unidade, de modo a atualizar esses instrumentos em consonância com a realidade institucional e com as perspectivas de crescimento da Faculdade. Da mesma forma, promoveremos a revisão das deliberações relacionadas às promoções docentes e aos concursos para os níveis de Livre-Docente e Professor Titular, buscando maior clareza, transparência, segurança jurídica e alinhamento às diretrizes da Universidade.
+
+A valorização das pessoas será um princípio permanente da gestão. No âmbito dos servidores técnico-administrativos, ampliaremos as ações de orientação sobre a carreira PAEPE, tornando mais acessíveis as informações relativas aos processos de progressão, desenvolvimento profissional e oportunidades de capacitação. Também buscaremos fortalecer a política de formação continuada, estruturando trilhas de desenvolvimento alinhadas às competências e às necessidades dos diferentes setores da Faculdade, contribuindo para a qualificação dos serviços prestados e para o crescimento profissional das equipes.
+
+No âmbito da gestão administrativa, pretendemos revisar e o aprimorar os fluxos de trabalho das seções, buscando simplificar procedimentos, reduzir retrabalho, aumentar a eficiência operacional e ampliar a previsibilidade e a transparência das rotinas institucionais. Esse processo será conduzido de forma colaborativa, valorizando a experiência dos servidores e estimulando a construção coletiva de soluções.
+
+Como ferramenta de apoio à melhoria contínua, incentivaremos o mapeamento e o acompanhamento sistemático dos processos administrativos, permitindo identificar oportunidades de aperfeiçoamento, padronizar procedimentos, qualificar a gestão da informação e subsidiar ações de capacitação específicas para cada área. Essa iniciativa contribuirá para fortalecer o planejamento institucional, otimizar o uso dos recursos disponíveis e ampliar a qualidade dos serviços oferecidos à comunidade acadêmica.
+
+Entendemos que uma gestão moderna exige não apenas processos eficientes, mas também um ambiente de trabalho baseado no respeito, na cooperação, no reconhecimento e no desenvolvimento das pessoas. Por isso, buscaremos fortalecer uma cultura organizacional pautada pelo diálogo, pela participação, pela inovação e pelo compromisso com a excelência acadêmica e administrativa, criando condições para que docentes, servidores técnico-administrativos e estudantes contribuam de forma ativa para o desenvolvimento da Faculdade de Tecnologia.---
+title: Graduação
+---
+
+A graduação é o coração de uma Faculdade. É nela que tudo se inicia. Nós, docentes, ingressamos na Universidade por meio de concursos vinculados a disciplinas de graduação e, a partir dessa atuação, desenvolvemos também nossas atividades de pesquisa, extensão e ensino na pós-graduação. Da mesma forma, os servidores não docentes atuam em diferentes áreas, contribuindo, direta ou indiretamente, para a formação de nossos estudantes e para o pleno funcionamento da graduação.
+
+Nossa gestão atuará em articulação com as Coordenações de Curso, Comissões de Graduação, Núcleos Docentes Estruturantes oferecendo suporte institucional para o desenvolvimento dos cursos. As ações estarão organizadas em torno do acolhimento e da permanência estudantil, da melhoria contínua do ensino, do planejamento acadêmico, da inserção da extensão, da modernização dos ambientes de aprendizagem e do equilíbrio da carga didática.
+
+## Acolhimento, Acompanhamento e Permanência
+
+O ingresso na Universidade representa um momento de grandes expectativas, e também de incertezas e desafios. Um acolhimento estruturado e um acompanhamento mais próximo da Direção e das Coordenações de Curso podem contribuir para a adaptação dos novos estudantes, fortalecendo seu vínculo com a Faculdade desde o início de sua trajetória acadêmica.
+
+A qualidade do ensino está diretamente relacionada com um ambiente acadêmico acolhedor, inovador e comprometido com o aprimoramento contínuo dos processos de ensino e aprendizagem. Nesse sentido, pretendemos fortalecer ações que promovam a integração da comunidade acadêmica, estimulem a reflexão sobre as práticas pedagógicas e valorizem o protagonismo de estudantes e docentes.
+
+Uma das prioridades será ampliar as ações de acolhimento e integração dos estudantes ingressantes, favorecendo sua adaptação à vida universitária, o conhecimento da estrutura e das oportunidades oferecidas pela Universidade, e o fortalecimento do sentimento de pertencimento à comunidade acadêmica. Acreditamos que uma recepção bem estruturada contribui significativamente para a permanência estudantil, para o sucesso acadêmico e para a construção de vínculos duradouros com a Faculdade.
+
+
+Propomos a implementação de um programa de recepção aos ingressantes, que inclua palestras com especialistas sobre temas de interesse acadêmico e profissional, apresentações sobre os serviços e oportunidades oferecidos pela UNICAMP e pela FT, além de visitas guiadas aos diferentes espaços da Faculdade, especialmente aos laboratórios de ensino e pesquisa. Essas atividades deverão ocorrer preferencialmente durante o primeiro mês letivo, favorecendo a integração dos estudantes à comunidade acadêmica e estimulando sua participação nas diversas iniciativas da FT.
+
+Em relação à permanência estudantil, pensamos que ações integradores podem ser realizadas para se criar um senso de pertencimento com a FT. Diversos projetos com alunos da FT são realizados voluntariamente em escolas públicas e em outras entidades de Limeira e região. Com o objetivo de incentivar o trabalho voluntário, iremos propor o projeto _Nosso Campus_, que será constituído de ações a serem realizadas pela comunidade FT -- alunos, docentes e servidores -- visando melhorias do campus. Acreditamos que tais ações poderão ajudar na integração da comunidade FT, criando um senso de pertencimento e de cuidado com o bem público da própria Universidade.
+
+## Promover a melhoria contínua da qualidade do ensino de graduação
+
+A excelência dos cursos de graduação depende, em grande medida, do compromisso institucional com a melhoria contínua das práticas de ensino. Para isso, é fundamental criar condições que apoiem o desenvolvimento docente e incentivem a a diversificação das estratégias pedagógicas. Aulas bem planejadas, metodologias ativas e avaliações coerentes melhoram o processo de aprendizagem, aumentam o engajamento dos estudantes, e podem reduzir a evasão.
+
+Como parte desse processo, propomos revisar e aperfeiçoar os instrumentos de avaliação das disciplinas de graduação, buscando torná-los mais eficazes como ferramentas de diagnóstico e melhoria da qualidade do ensino. Um sistema de avaliação bem estruturado deve favorecer o diálogo entre estudantes, docentes e coordenações de curso, oferecendo subsídios para o aperfeiçoamento das disciplinas e para a tomada de decisões fundamentadas.
+
+Pretendemos ampliar as oportunidades de formação continuada para os docentes, incentivando sua participação em cursos, oficinas e eventos promovidos pelo Espaço de Apoio ao Ensino e Aprendizagem (EA$^2$), bem como fortalecer a interação da FT com essa estrutura institucional.
+
+Outro aspecto importante refere-se à integração, orientação e ao acompanhamento das atividades desenvolvidas pelos monitores dos programas PAD e PED. Esses programas representam importantes oportunidades de formação para estudantes de graduação e pós-graduação e desempenham papel relevante no apoio às atividades de ensino. Buscaremos fortalecer sua atuação por meio de orientações mais sistemáticas, maior integração com as disciplinas e acompanhamento contínuo, potencializando sua contribuição para a qualidade do processo de ensino-aprendizagem.
+
+Também propomos a padronização dos planos de desenvolvimento das disciplinas em uma plataforma institucional comum, reunindo informações como objetivos de aprendizagem, conteúdos, metodologias, cronogramas e instrumentos de avaliação. Essa iniciativa facilitará o planejamento das disciplinas, favorecerá o compartilhamento de boas práticas e permitirá um acompanhamento sistemático visando à melhoria contínua da qualidade do ensino.
+
+A FT conta atualmente com um corpo docente altamente qualificado e diversificado, cuja experiência representa um importante patrimônio institucional. Pretendemos criar mecanismos para valorizar e compartilhar essas experiências, promovendo workshops, seminários e encontros periódicos voltados à discussão de metodologias inovadoras, recursos tecnológicos, estratégias de aprendizagem ativa e formas de avaliação. Entre as ações previstas está a retomada dos Workshops de Práticas de Ensino da FT, fortalecendo uma cultura de inovação e colaboração entre os docentes.
+
+## Expandir e diversificar a oferta de cursos
+
+Nos últimos anos, a FT esteve envolvida em importantes processos de planejamento e reestruturação de seus cursos de graduação, buscando responder às transformações da sociedade, às novas demandas do mercado de trabalho, e às estratégias de desenvolvimento da UNICAMP.
+
+Em 2026, participamos ativamente das discussões que resultaram na criação do Curso de Graduação em Inteligência Artificial e Ciência de Dados, que terá início em 2027, em parceria com a Faculdade de Ciências Aplicadas (FCA). Ao longo desse processo, a Profa. Carmenlucia, na condição de Diretora Associada da FT, representou a Unidade nas reuniões com a Pró-Reitoria de Graduação (PRG) e a FCA, promoveu as discussões nos colegiados da Faculdade e conduziu os encaminhamentos necessários junto à Congregação. Paralelamente, o Prof. Vitor integra a Comissão de Implementação do Curso na FT, responsável por discutir, em conjunto com a comissão da FCA, aspectos acadêmicos e administrativos relacionados à implantação da nova graduação, incluindo a organização curricular, o oferecimento das disciplinas, o perfil das futuras contratações docentes e as demandas de infraestrutura.
+
+A implantação do novo curso de graduação na área de Ciência de Dados e Inteligência Artificial, desenvolvido em parceria com a FCA, será um dos principais desafios acadêmicos da próxima gestão. Atuaremos para consolidar uma governança compartilhada entre as Unidades, acompanhar a organização curricular e o oferecimento das disciplinas e planejar as necessidades de contratação docente, infraestrutura computacional, laboratórios e apoio acadêmico. A implantação será acompanhada desde o ingresso da primeira turma, com avaliações periódicas que permitam identificar necessidades de ajuste e assegurar a integração entre as áreas envolvidas.
+
+Outro importante avanço alcançado durante a atual gestão foi a aprovação do encerramento do oferecimento do Curso Superior de Tecnologia em Saneamento Ambiental. Após um amplo processo de discussão com a PRG, foi possível construir uma solução que reconheceu os desafios enfrentados pelo curso, especialmente a baixa procura no vestibular e os elevados índices de evasão, decorrentes, em grande parte, das limitações de atribuições profissionais impostas aos tecnólogos pelos órgãos de classe. Esse processo foi conduzido preservando os interesses institucionais da FT, uma vez que o encerramento do curso foi aprovado sem a redistribuição das vagas para outros cursos da Unidade e sem a imposição de condicionantes para a criação de um novo curso. 
+
+Essas experiências demonstram a importância de uma gestão capaz de conduzir processos complexos de planejamento acadêmico, dialogando com diferentes instâncias da Universidade e construindo soluções que conciliem inovação, responsabilidade institucional e visão estratégica para o futuro da Faculdade.
+
+Entendemos, entretanto, que o desenvolvimento da FT deve ser um processo contínuo. Nesse sentido, buscaremos discutir a criação de novos cursos de graduação em áreas estratégicas, bem como promover a atualização permanente dos projetos pedagógicos e o fortalecimento dos cursos já existentes, garantindo que permaneçam alinhados às transformações científicas, tecnológicas e às demandas da sociedade.
+
+A criação de novos cursos ou modalidades de formação será precedida por estudos de viabilidade acadêmica e institucional. Esses estudos deverão considerar a relevância social da proposta, sua aderência às competências da FT, a demanda potencial, a disponibilidade docente, as necessidades de infraestrutura, o impacto sobre os cursos existentes e sua sustentabilidade no longo prazo.
+
+As coordenações de graduação serão fundamentais na atualização periódica dos projetos pedagógicos dos cursos existentes, utilizando indicadores acadêmicos, avaliações externas, acompanhamento de egressos e transformações profissionais e tecnológicas como subsídios para as discussões.
+
+Também incentivaremos a construção de propostas interdisciplinares, o desenvolvimento de cursos de curta duração, programas de educação continuada e outras iniciativas voltadas à formação em temas emergentes, ampliando as oportunidades de qualificação profissional e fortalecendo a atuação da FT em áreas de grande relevância para o desenvolvimento científico, tecnológico, econômico e social.
+
+## Ampliar e modernizar os espaços de ensino e aprendizagem
+
+A formação tecnológica requer ambientes que estimulem a experimentação, a inovação e o desenvolvimento de soluções para desafios reais. Nesse contexto, a qualificação contínua dos espaços destinados ao ensino constitui um elemento essencial para fortalecer a integração entre teoria e prática, incentivar metodologias ativas de aprendizagem e proporcionar aos estudantes experiências formativas cada vez mais alinhadas às demandas da sociedade e do setor produtivo.
+
+Nossa gestão buscará identificar oportunidades para ampliar (considerando as atuais limitações de espaço físico), modernizar e revitalizar os ambientes destinados às atividades didáticas e experimentais, priorizando espaços flexíveis, colaborativos e capazes de atender às diferentes necessidades dos cursos de graduação.
+
+Entre as ações prioritárias, propomos a revitalização do Laboratório de Hidráulica, transformando-o em um ambiente multifuncional voltado ao desenvolvimento de atividades experimentais, demonstrações didáticas, construção de protótipos e projetos integradores. O objetivo é ampliar sua utilização, tornando-o um espaço compartilhado para o ensino e pesquisa, com foco na inovação e integração. Também discutiremos a implantação de um espaço \textit{maker} compartilhado, voltado ao desenvolvimento de projetos interdisciplinares, atividades de ensino, extensão, inovação e iniciativas estudantis. Sua criação deverá ser precedida por projeto conceitual e plano de funcionamento, contemplando responsabilidade técnica, regras de acesso, capacitação dos usuários, manutenção dos equipamentos e integração com os componentes curriculares. 
+
+Paralelamente, buscaremos recursos institucionais e externos para modernizar outros espaços de ensino, priorizando investimentos de uso compartilhado e capazes de beneficiar diferentes cursos e atividades acadêmicas.
+
+_``Investir em ambientes de aprendizagem é investir na formação de profissionais mais criativos, autônomos, inovadores e preparados para enfrentar os desafios tecnológicos e sociais do futuro.''_
+
+## Aprimorar e ampliar o sistema de avaliação das disciplinas
+
+A avaliação das disciplinas constitui um importante instrumento de gestão acadêmica e de aprimoramento contínuo da qualidade do ensino. Mais do que um mecanismo de avaliação, ela representa um canal institucional de diálogo entre estudantes, docentes, coordenações de curso e a gestão da Faculdade, permitindo identificar potencialidades, oportunidades de melhoria e desafios relacionados ao processo de ensino-aprendizagem.
+
+Desde 2023, a Faculdade de Tecnologia dispõe de um sistema próprio de avaliação semestral das disciplinas, desenvolvido por docentes e servidores técnico-administrativos da Unidade. Esse sistema representa um avanço importante na construção de uma cultura institucional de avaliação e oferece informações relevantes para subsidiar o aperfeiçoamento das atividades acadêmicas.
+
+Nossa proposta é fortalecer esse processo, ampliando a participação dos estudantes — atualmente em torno de 30\% — e promovendo uma utilização cada vez mais sistemática e qualificada dos resultados obtidos. Para isso, buscaremos desenvolver estratégias de sensibilização que evidenciem a importância da participação discente e reforcem o papel da avaliação como instrumento de construção coletiva da qualidade do ensino.
+
+Pretendemos consolidar uma cultura de avaliação formativa, em que as informações produzidas sejam utilizadas para subsidiar o planejamento pedagógico, apoiar as coordenações de curso, incentivar a inovação nas práticas de ensino e contribuir para o aperfeiçoamento contínuo das disciplinas. Sempre que pertinente, os resultados também poderão orientar ações de formação docente, revisão de componentes curriculares e identificação de boas práticas que possam ser compartilhadas entre os diferentes cursos da Faculdade.
+
+Entendemos que a melhoria da qualidade do ensino depende de um processo permanente de escuta, reflexão e aperfeiçoamento. Nesse sentido, fortalecer a cultura de avaliação significa promover um ambiente acadêmico em que estudantes e docentes participem, de forma corresponsável, da construção de uma formação cada vez mais qualificada, inovadora e alinhada às necessidades da sociedade.
+
+## Otimizar a carga didática e aprimorar o processo de ensino-aprendizagem
+
+De acordo com o Anuário Estatístico da UNICAMP 2025 (ano-base 2024), a FT apresenta uma das maiores relações entre número de estudantes de graduação e docentes da Universidade. Historicamente, nossos docentes convivem com uma elevada carga didática, realidade que impacta diretamente a disponibilidade de tempo para o planejamento das disciplinas, a pesquisa, a extensão e outras atividades acadêmicas.
+
+Entendemos que a discussão sobre carga didática deve ir além da simples contabilização de horas em sala de aula. É necessário refletir sobre como esse tempo é utilizado e de que forma ele contribui para uma aprendizagem mais efetiva. Nesse contexto, pretendemos promover um amplo debate com as Coordenações de Curso e o corpo docente sobre a organização das disciplinas e a utilização mais eficiente da carga horária disponível.
+
+Uma questão central é garantir que os estudantes disponham de tempo adequado para o estudo individual e para atividades colaborativas orientadas. Nenhuma metodologia de ensino substitui o tempo necessário para a reflexão, a consolidação do conhecimento e a resolução de problemas. Essa discussão torna-se ainda mais relevante para muitos estudantes da FT que conciliam a graduação com atividades profissionais e que, frequentemente, têm nas aulas presenciais seus principais momentos de contato com os conteúdos das disciplinas.
+
+
+## Fortalecer a inserção da extensão na graduação
+
+A inserção da extensão nos cursos de graduação representa uma oportunidade para integrar a formação acadêmica às demandas da sociedade e ampliar a participação dos estudantes em projetos voltados a problemas reais. Sua consolidação, entretanto, exige apoio às Coordenações de Curso, aos docentes e às equipes responsáveis pelas atividades.
+
+Criaremos um espaço de articulação entre Graduação e Extensão para compartilhar experiências, orientar a elaboração das atividades, apoiar a relação com parceiros e identificar oportunidades comuns aos diferentes cursos. Também buscaremos organizar, com o apoio e coordenação da Coordenação de Extensão, um cadastro institucional de órgãos públicos, empresas, organizações sociais e comunidades interessadas em colaborar com projetos acadêmicos e extensionistas.
+
+Em conjunto com as Coordenações de Graduação e de Extensão, acompanharemos a implantação das atividades de extensão previstas nos projetos pedagógicos, identificando necessidades de suporte administrativo, infraestrutura, transporte, formalização de parcerias e avaliação. O objetivo será qualificar essas experiências e evitar que a busca por parceiros e a organização das atividades recaiam isoladamente sobre docentes e estudantes.---
+title: Pós-Graduação
+---
+
+Desde a sua criação em 2009, o Programa de Pós-Graduação em Tecnologia — PPGT, ampliou sua atuação, consolidou a formação em nível de mestrado e doutorado e fortaleceu sua contribuição para a produção científica e formação de pesquisadores. Para os próximos anos, precisamos concentrar esforços na preparação institucional para a avaliação da CAPES, no aprimoramento do PPGT e na discussão sobre a criação de novos programas, considerando as competências acadêmicas e as áreas estratégicas da FT.
+
+## Fortalecer a preparação institucional para a avaliação da CAPES
+
+A avaliação da CAPES deve ser compreendida como um **processo institucional e coletivo**, que envolve a Coordenação do Programa, a Comissão de Pós-Graduação, a Comissão de Autoavaliação, os docentes, os estudantes, os egressos e a gestão da Unidade. Mais do que o preenchimento e o envio periódico de informações, esse processo exige acompanhamento contínuo, análise dos resultados e planejamento de ações voltadas ao desenvolvimento do Programa. Nesse sentido, entendemos ser necessário:
+
+- fortalecer a participação da Comissão de Autoavaliação (CAA) no acompanhamento do Programa;
+
+- incluir a CAA na revisão das informações e dos dados encaminhados à CAPES;
+
+- ampliar a participação dos docentes e estudantes nas discussões relacionadas à avaliação;
+
+- acompanhar periodicamente os indicadores e os resultados do Programa;
+
+- utilizar os relatórios e as recomendações produzidos pela CAA para subsidiar o planejamento e as ações de melhoria;
+
+- promover uma atuação articulada entre a Coordenação do Programa, a Comissão de Pós-Graduação, a CAA e a Direção da Unidade;
+
+- preparar o PPGT de forma contínua e coletiva para o próximo ciclo avaliativo da CAPES.
+
+## Desenvolver estratégias para o fortalecimento do PPGT
+
+O PPGT tem como um de seus principais objetivos oferecer aos mestrandos e doutorandos uma formação sólida, ética e alinhada às transformações científicas e tecnológicas. O fortalecimento do Programa requer a análise permanente de sua estrutura acadêmica, de suas disciplinas, de suas ações de internacionalização e das condições oferecidas para a formação dos estudantes. Para aprimorar o Programa atual, faz-se necessário:
+
+- reformular e atualizar o catálogo do PPGT;
+
+- analisar continuamente a variedade, a especificidade, a regularidade e a distribuição das disciplinas oferecidas;
+
+- estimular o oferecimento de disciplinas que contemplem as diferentes áreas de concentração e linhas de pesquisa do Programa;
+
+- incentivar o compartilhamento de disciplinas entre docentes, aproveitando competências complementares e favorecendo a regularidade dos oferecimentos;
+
+- estimular práticas de ensino que contribuam para a qualidade das disciplinas e para a formação dos estudantes;
+
+- ampliar as ações de internacionalização do Programa;
+
+- incentivar o oferecimento de disciplinas, palestras, seminários e outros eventos acadêmicos em inglês ou espanhol;
+
+- estimular a participação de docentes e estudantes em atividades e projetos de cooperação internacional;
+
+- buscar fontes complementares de recursos para apoiar a participação de estudantes em congressos e outras atividades acadêmicas;
+
+- manter o apoio financeiro, sempre que possível, ao pagamento de inscrições, transporte e outras despesas relacionadas à participação discente em eventos científicos;
+
+- ampliar a divulgação das possibilidades de financiamento e dos recursos disponíveis para atividades acadêmicas e de internacionalização;
+
+- ampliar a divulgação do impacto social dos trabalhos desenvolvidos pelos estudantes.
+
+## Discutir sobre a criação de novos programas de pós-graduação
+
+O crescimento da FT, a diversidade de seu corpo docente e a consolidação de novas áreas de ensino e pesquisa criam oportunidades para a discussão sobre a ampliação da Pós-Graduação na Unidade. A criação de novos programas, entretanto, deve resultar de um **processo coletivo de planejamento**, fundamentado nas competências existentes, nas demandas da sociedade e nas condições acadêmicas e institucionais necessárias à sua sustentabilidade. Nesse sentido, pretendemos:
+
+- promover discussões com o corpo docente sobre as possibilidades de criação de novos programas de pós-graduação;
+
+- identificar áreas consolidadas ou emergentes com potencial para a estruturação de novas propostas;
+
+- analisar a aderência das propostas às competências acadêmicas e às linhas de pesquisa desenvolvidas na FT;
+
+- avaliar a demanda pela formação de mestres e doutores nas áreas identificadas;
+
+- analisar a disponibilidade de docentes, infraestrutura, produção científica e condições administrativas necessárias;
+
+- incentivar a construção de propostas interdisciplinares e, quando pertinente, em parceria com outras unidades da Unicamp;
+
+- acompanhar as diretrizes e os critérios estabelecidos pela CAPES para a apresentação de novos programas;
+
+- conduzir o processo de forma participativa, responsável e alinhada ao planejamento institucional da Faculdade.
+
+## Fortalecer a integração entre pesquisa e pós-graduação
+
+A pesquisa e a pós-graduação são áreas diretamente relacionadas, uma vez que a formação de mestres e doutores está associada ao desenvolvimento dos projetos e das linhas de pesquisa da Unidade. Pretendemos fortalecer a integração entre essas áreas, promovendo uma atuação articulada no planejamento e no acompanhamento das ações acadêmicas. Nesse sentido, pretendemos:
+
+-  aproximar as discussões e o planejamento das áreas de Pesquisa e Pós-Graduação;
+
+- promover ações conjuntas envolvendo docentes, pesquisadores e estudantes;
+
+- integrar as discussões sobre as linhas de pesquisa do PPGT e as linhas transversais e estratégicas da FT;
+
+- fortalecer a participação dos estudantes de pós-graduação nos projetos e nas atividades de pesquisa da Unidade.
+
+
+## Definir e acompanhar metas e indicadores estratégicos de pesquisa e publicação
+
+O acompanhamento de metas e indicadores é fundamental para conhecer a evolução da pesquisa e da produção científica da FT, identificar oportunidades de melhoria e subsidiar o planejamento das ações institucionais. Para isso, pretendemos:
+
+- definir metas estratégicas relacionadas à pesquisa e à publicação científica;
+
+- acompanhar periodicamente os principais indicadores da área;
+
+- analisar a evolução dos projetos, das bolsas e da produção científica da Unidade;
+
+- utilizar os resultados desse acompanhamento no planejamento das ações de Pesquisa e Pós-Graduação;
+
+- compartilhar periodicamente os resultados com a comunidade acadêmica.---
+title: Pesquisa
+---
+
+A pesquisa na Faculdade de Tecnologia apresentou crescimento contínuo nos últimos anos, impulsionado pela ampliação da captação de projetos e bolsas, pelos investimentos realizados na infraestrutura dos laboratórios e pela consolidação de uma gestão orientada por procedimentos, metas e prazos.
+
+Esse processo envolveu a aquisição de equipamentos, o desenvolvimento de projetos técnicos destinados à melhoria dos espaços e o fortalecimento da estrutura de apoio aos pesquisadores. A próxima etapa deverá concentrar-se na manutenção e na consolidação desses avanços, garantindo condições adequadas para o desenvolvimento das pesquisas e para a continuidade do crescimento da área.
+
+## Apoiar a gestão da infraestrutura dos laboratórios de pesquisa
+
+Nos últimos anos, a FT ampliou sua infraestrutura de pesquisa por meio da aquisição de equipamentos, da melhoria dos espaços e da elaboração de projetos técnicos destinados a adequações estruturais. Nesse processo, destacam-se a utilização estratégica dos recursos da Reserva Técnica Institucional e a participação da Unidade em editais de infraestrutura da Universidade, que contribuíram para a manutenção e a consolidação dos espaços destinados à pesquisa.
+
+Diante desse crescimento, torna-se necessário apoiar continuamente a gestão dessa infraestrutura, assegurando condições adequadas para o funcionamento dos laboratórios e para o desenvolvimento das pesquisas.
+Nesse sentido, pretendemos:
+
+- manter uma política contínua de apoio à manutenção dos espaços e equipamentos;
+
+- planejar manutenções preventivas e recorrentes, reduzindo a necessidade de intervenções emergenciais;
+
+- continuar com a elaboração de projetos técnicos para climatização, instalações elétricas e outras adequações de infraestrutura;
+
+- incentivar práticas de organização, segurança e melhoria contínua, incluindo a metodologia 5S;
+
+- incentivar a criação de espaços compartilhados em laboratórios de pesquisa, favorecendo a integração entre docentes, o uso coletivo da infraestrutura e a otimização dos recursos disponíveis, respeitadas as especificidades de cada pesquisa;
+
+- utilizar esses espaços compartilhados para acolher novos projetos, inclusive os vinculados ao Programa Jovem Pesquisador, e para receber atividades e ensaios rotineiros que não demandem infraestrutura altamente especializada, contribuindo para reduzir a sobrecarga dos demais laboratórios de pesquisa.
+
+
+## Manter e consolidar o apoio institucional aos pesquisadores
+
+Nos últimos anos, a FT não mediu esforços para fortalecer o apoio institucional à pesquisa. Além de ampliar o número de servidores que atuam na área, a Unidade estruturou seu Escritório de Apoio Institucional ao Pesquisador, que se tornou um dos mais consolidados da Unicamp e oferece suporte nas diferentes etapas dos projetos.
+
+A próxima etapa será dedicada à manutenção, à qualificação e à consolidação dessa estrutura, preservando o atendimento já oferecido e investindo na preparação contínua da equipe. Para isso, pretendemos:
+
+- manter o atendimento aos docentes e pesquisadores nas diferentes etapas dos projetos;
+
+- consolidar a estrutura e a organização da equipe de apoio à pesquisa;
+
+- investir na preparação e na formação contínua dos servidores que atuam na área;
+
+- manter o apoio relacionado à submissão, à execução e à prestação de contas dos projetos;
+
+- fortalecer a atuação conjunta com o Grant Office da Unicamp, por meio da participação em eventos, reuniões e outras iniciativas institucionais;
+
+- aprimorar a divulgação de normas, oportunidades, editais e prazos de interesse dos pesquisadores.
+
+## Ampliar a integração e a visibilidade das pesquisas da FT
+
+A divulgação das pesquisas desenvolvidas na FT é fundamental para valorizar o trabalho de docentes, pesquisadores e estudantes, ampliar a circulação do conhecimento produzido e criar novas oportunidades de colaboração. A Unidade já dispõe de mídias dedicadas à Pesquisa, que desempenham papel importante na divulgação de projetos, resultados, eventos e oportunidades.
+
+Pretendemos fortalecer essas iniciativas e ampliar os espaços de integração e troca de experiências entre os diferentes grupos de pesquisa. Para isso, propomos:
+
+- aprimorar o espaço destinado à Pesquisa no site institucional da FT, com uma seção específica para divulgar as pesquisas desenvolvidas, os prêmios recebidos e os resultados alcançados;
+
+- manter e fortalecer as mídias da Pesquisa da FT;
+
+- ampliar a divulgação de projetos, grupos, laboratórios e oportunidades;
+
+- apoiar a organização de eventos científicos na Unidade;
+
+- promover colóquios, seminários, oficinas e encontros entre docentes, pesquisadores e estudantes;
+
+- estimular a troca de experiências, ideias e perspectivas sobre o desenvolvimento da pesquisa;
+
+- dar continuidade ao Workshop de Tendências e Inovação em Pesquisa e Pós-Graduação;
+
+- fortalecer a aproximação com outras unidades da Unicamp, especialmente aquelas localizadas nos campi de Limeira, bem como com instituições de pesquisa da região, agências de fomento, órgãos públicos e empresas;
+
+- produzir conteúdos de divulgação científica em diferentes formatos, como reportagens, vídeos e materiais para as mídias institucionais.
+
+## Continuar e aprofundar as discussões sobre as linhas transversais e estratégicas de pesquisa da FT
+
+A identificação de linhas transversais e estratégicas contribui para aproximar docentes, pesquisadores e grupos que atuam em áreas complementares, favorecendo o desenvolvimento de iniciativas interdisciplinares e ampliando as possibilidades de cooperação. Essa discussão também permite reconhecer as competências existentes na Unidade e articulá-las com temas relevantes para a Universidade e para a sociedade.
+
+Com base nas diretrizes da Pró-Reitoria de Pesquisa, pretendemos dar continuidade e aprofundar as discussões sobre as linhas transversais e estratégicas da FT, respeitando a diversidade e a autonomia dos grupos. Para isso, propomos:
+
+- identificar temas e desafios capazes de integrar diferentes áreas de pesquisa da Unidade;
+
+- promover espaços de discussão entre docentes, pesquisadores e grupos de pesquisa;
+
+- estimular a aproximação entre grupos com competências e interesses complementares;
+
+- apoiar a construção de iniciativas e projetos interdisciplinares;
+
+- articular as linhas estratégicas da FT às diretrizes institucionais da Pró-Reitoria de Pesquisa;
+
+- fortalecer a integração entre pesquisa e pós-graduação na discussão dessas linhas;
+
+- ampliar as possibilidades de cooperação com outras unidades, instituições de pesquisa, órgãos públicos e empresas.
+
+Cabe destacar, ainda, o comprometimento do corpo docente da FT na elaboração de propostas e na participação em iniciativas de grande porte. Nos últimos anos, docentes da Unidade foram contemplados em editais de instituições como a FINEP, atuaram na supervisão e no desenvolvimento de projetos vinculados ao Programa Jovem Pesquisador e participaram como pesquisadores principais ou associados em Centros de Pesquisa e em Projetos Temáticos. Essas experiências demonstram a capacidade científica da FT e oferecem uma base importante para o aprofundamento das linhas transversais e estratégicas da Unidade.---
+title: Infraestrutura Física
+---
+
+
+Com o crescimento da FT por meio da contratação de docentes e funcionários, do ingresso de novos alunos nos cursos de graduação e pós-graduação e pela aquisição de novos equipamentos, devemos constantemente procurar criar novos espaços para Ensino, Pesquisa e Extensão. Algumas ações já estão sendo tomadas pela gestão atual. Iremos estudar melhorias de segurança para o estacionamento e possíveis ampliações. Além disso, devemos estar atentos também para espaços que possam ser otimizados como, por exemplo, salas e laboratórios sub-utilizados ou mal organizados.
+
+Para isso, propomos:
+
+- repensar o campus quanto aos espaços de convivência e promover o conforto acústico e térmico de salas de aulas, ampliar locais de estudo para os alunos, reformar as instalações sanitárias e ampliar a acessibilidade do campus.
+
+- criar novos espaços e otimizar os já existentes;
+
+- aumentar a integração com a FCA; 
+
+- criar um programa de manutenção preventiva para criar fluxos de trabalhos capazes de se antecipar à ocorrência dos problemas;
