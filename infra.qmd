@@ -3,14 +3,87 @@ title: Infraestrutura Física
 ---
 
 
-Com o crescimento da FT por meio da contratação de docentes e funcionários, do ingresso de novos alunos nos cursos de graduação e pós-graduação e pela aquisição de novos equipamentos, devemos constantemente procurar criar novos espaços para Ensino, Pesquisa e Extensão. Algumas ações já estão sendo tomadas pela gestão atual. Iremos estudar melhorias de segurança para o estacionamento e possíveis ampliações. Além disso, devemos estar atentos também para espaços que possam ser otimizados como, por exemplo, salas e laboratórios sub-utilizados ou mal organizados.
+## Infraestrutura, Manutenção e Modernização dos Espaços
 
-Para isso, propomos:
+A infraestrutura da FT é composta, em grande parte, por prédios e instalações concebidos há várias décadas. Em razão da idade das edificações, do uso intenso dos espaços e da ampliação das atividades acadêmicas, a unidade enfrenta problemas recorrentes e uma demanda elevada por manutenção preventiva, corretiva e por modernização.
 
-- repensar o campus quanto aos espaços de convivência e promover o conforto acústico e térmico de salas de aulas, ampliar locais de estudo para os alunos, reformar as instalações sanitárias e ampliar a acessibilidade do campus.
+Nos últimos anos, temos buscado atender continuamente às necessidades dos laboratórios de ensino e pesquisa, das salas de aula e dos espaços administrativos e de convivência. Para apresentar de forma objetiva os resultados alcançados, as melhorias poderão ser organizadas da seguinte maneira:
 
-- criar novos espaços e otimizar os já existentes;
 
-- aumentar a integração com a FCA; 
+1) Melhorias concluídas pela atual gestão:
 
-- criar um programa de manutenção preventiva para criar fluxos de trabalhos capazes de se antecipar à ocorrência dos problemas;
+- modernização da Biblioteca da FT;
+
+- substituição de aparelhos de ar-condicionado: [indicar locais e quantidade];
+- adequação de laboratórios de pesquisa, incluindo a atualização de quadros elétricos e dos sistemas de climatização: [detalhar];
+
+- aquisição e substituição de mobiliário: [detalhar];
+
+- aquisição e atualização de computadores e equipamentos: [detalhar];
+
+- melhorias em salas de aula, laboratórios de ensino e espaços administrativos: [detalhar];
+
+- melhorias relacionadas à acessibilidade e à segurança: [detalhar];
+
+2) Projetos encaminhados ou em andamento:
+
+- recuperação ou substituição dos telhados: [informar prédios, situação atual e próximas etapas];
+
+- modernização dos sistemas de climatização: [detalhar];
+
+- atualização de laboratórios de ensino e pesquisa: [detalhar];
+
+- [inserir outros projetos em andamento];
+
+- [inserir outras demandas já formalizadas].
+
+
+Uma das principais demandas da unidade está relacionada à recuperação e à substituição dos telhados. Os projetos necessários vêm sendo acompanhados pela gestão, com cobranças e interlocução permanente junto aos órgãos responsáveis. Obras dessa complexidade, entretanto, não dependem exclusivamente da FT. Elas exigem levantamentos, projetos técnicos, estimativas de custos, definição de prioridades e atuação da Prefeitura Universitária, órgão responsável por etapas técnicas relacionadas às intervenções na infraestrutura da Universidade.
+
+
+Também é necessário considerar que a Unicamp adota fluxos institucionais de priorização para atender às demandas de todas as suas Unidades e Órgãos. Por isso, projetos de maior porte podem exigir um período mais longo entre a identificação da necessidade, a elaboração técnica, a obtenção dos recursos, a contratação e o início da execução. Nosso compromisso será acompanhar cada processo, manter a interlocução com os órgãos responsáveis e defender a prioridade das demandas da FT com base em critérios de segurança, urgência e impacto acadêmico.
+
+
+Outro fator que afetou o andamento de projetos e contratações foi a transição da Lei nº 8.666/1993 para a Lei nº 14.133/2021. A nova legislação exigiu a revisão dos fluxos de contratação e, conforme a natureza de cada objeto, a elaboração de documentos como Estudo Técnico Preliminar, Termo de Referência e análise ou mapa de riscos. Essa mudança demandou a adaptação dos processos, a complementação de documentos e a capacitação das equipes envolvidas.
+
+
+Apesar dessas limitações, a FT tem utilizado seus recursos orçamentários e extraorçamentários para promover melhorias e apoiar a atualização de laboratórios, salas de aula e demais espaços. Pretendemos manter essa atuação, buscando aproveitar integralmente os recursos disponíveis e estabelecer prioridades com base nas necessidades apresentadas pela comunidade e nas condições técnicas e orçamentárias da unidade.
+
+Nesse contexto, deve ser destacada a aprovação integral da proposta da FT no Edital FAEPEX nº 08/2024 – Apoio à Infraestrutura de Pesquisa, destinado ao financiamento de melhorias em laboratórios e instalações de pesquisa. A participação nesse tipo de edital amplia a capacidade de investimento da unidade e permite executar intervenções que dificilmente seriam atendidas apenas com recursos do orçamento regular.
+
+A FT também tem alcançado, anualmente, o valor mínimo de concessões de projetos de pesquisa necessário para receber recursos da Reserva Técnica para Infraestrutura Institucional de Pesquisa da FAPESP. Esses recursos são calculados com base nas concessões obtidas pelos pesquisadores da unidade no exercício anterior e devem ser aplicados em infraestrutura coletiva de pesquisa, mediante a elaboração de um plano anual aprovado pela Congregação e submetido à FAPESP.
+
+
+Para os próximos anos, buscaremos fortalecer o planejamento da infraestrutura, acompanhar sistematicamente os projetos em andamento e ampliar a captação de recursos. Entre as prioridades estão:
+
+- dar continuidade aos projetos de recuperação e substituição dos telhados;
+
+- ampliar a substituição e a modernização dos sistemas de climatização;
+
+- atualizar instalações e quadros elétricos;
+
+- promover adequações nos laboratórios de ensino e pesquisa;
+
+- modernizar salas de aula, laboratórios de informática e espaços administrativos;
+
+- dar continuidade às melhorias da Biblioteca da FT;
+
+- atualizar mobiliários, computadores e equipamentos;
+
+- ampliar as condições de acessibilidade e segurança;
+
+- fortalecer a manutenção preventiva das edificações e dos equipamentos;
+
+- participar de editais do FAEPEX, da FINEP e de outras fontes de financiamento;
+
+- acompanhar os projetos junto à Prefeitura Universitária e aos demais órgãos da Administração Central;
+
+Nosso objetivo será estabelecer uma política contínua de manutenção e modernização, com prioridades definidas de forma técnica e transparente. Ao mesmo tempo, continuaremos buscando recursos externos e institucionais para melhorar as condições de ensino, pesquisa, extensão, gestão e convivência em toda a Faculdade.
+
+Essa capacidade de interlocução já produziu resultados concretos, como a viabilização da substituição de aparelhos de ar-condicionado e o apoio à realização de iniciativas como o FT de Portas Abertas (FTPA). Iremos ampliar essa atuação para buscar novos investimentos em infraestrutura, apoiar projetos acadêmicos e administrativos, promover eventos e assegurar maior presença da FT nas decisões e oportunidades da Universidade.
+
+Manter esse diálogo permanente será essencial para antecipar oportunidades, defender as prioridades da unidade e viabilizar soluções que dependam do apoio dos órgãos centrais da Unicamp.
+
+##  Valorização dos espaços de trabalho
+
+Avançar na melhoria contínua dos ambientes de trabalho, incluindo a atualização do mobiliário, a aquisição e a substituição de computadores e outros equipamentos, bem como a manutenção dos sistemas de climatização. As melhorias serão planejadas de acordo com as necessidades dos setores, as possibilidades orçamentárias e os limites estabelecidos pelas normas institucionais.

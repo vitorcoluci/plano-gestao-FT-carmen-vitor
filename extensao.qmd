@@ -2,20 +2,61 @@
 title: Extensão
 ---
 
-A **Extensão Universitária** deve ser baseada nos 5 ``**I**''s, devendo envolver ações que:  proporcionem uma **I**nteração dialógica com os participantes, permitindo não apenas ensinar, mas também aprender; sejam **I**nterdisciplinares, como, por exemplo aquelas que envolvem áreas como Tecnologia e Arte; sejam capazes de levar a uma **I**ndissociabilidade entre Ensino, Pesquisa e Extensão; levem a um **I**mpacto na vida dos estudantes, atuando como participantes das atividades ou mesmo como instrutores; tenham um **I**mpacto na transformação social, muitas vezes começando com uma transformação pontual na pessoa, mas que pode levar a um efeito multiplicador. 
 
-A FT possui várias projetos de Extensão que servem de exemplos para outras Unidades da Unicamp. Além desses projetos, diversos cursos _lato sensu_ e de difusão científica e tecnológica vem sendo oferecidos. Essas atividades de Extensão tem um alcance amplo, que vai desde crianças até a população com 50 anos ou mais, passando por jovens e adultos de empresas de Limeira e região. 
+A extensão universitária é um dos principais caminhos para aproximar o conhecimento produzido na FT das necessidades da sociedade. Ela compreende cursos, eventos, projetos, programas, prestação de serviços, contratos, convênios e outras formas de cooperação com instituições públicas, empresas, organizações do terceiro setor e instituições de ensino e pesquisa.
 
-Diante do crescimento da Extensão na Universidade e do grande potencial e experiência da comunidade FT,  pretendemos tornar ações extensionistas uma prática presente e contínua. Nesse sentido, pretendemos:
+A **Extensão Universitária** deve ser baseada nos 5 ``**I**''s, devendo envolver ações que:  proporcionem uma **I**nteração dialógica com os participantes, permitindo não apenas ensinar, mas também aprender; sejam **I**nterdisciplinares, como, por exemplo aquelas que envolvem áreas como Tecnologia e Arte; sejam capazes de levar a uma **I**ndissociabilidade entre Ensino, Pesquisa e Extensão; levem a um **I**mpacto na vida dos estudantes, atuando como participantes das atividades ou mesmo como instrutores; tenham um **I**mpacto na transformação social, muitas vezes começando com uma transformação pontual na pessoa, mas que pode levar a um efeito multiplicador.
 
-- incentivar encontros formativos e informativos sobre os processos envolvidos com a Extensão desde a criação, submissão e oferecimento de cursos, estabelcimento de convênios, criação, submissão e execução de projetos extensionistas;
+Buscaremos ampliar a criação de convênios de cooperação e de extensão que aproveitem as competências dos docentes, servidores, estudantes e laboratórios da FT. Essas parcerias poderão envolver formação profissional, sustentabilidade, transformação digital, engenharias, meio ambiente, apoio à gestão pública, inovação e outras áreas relacionadas à atuação da Faculdade.
 
-- otimizar os processos para o estabelcimento de convênios e para criação de projetos extensionistas;
+A unidade deverá orientar os docentes interessados na formalização dessas parcerias, desde a definição do objeto até a elaboração do plano de trabalho, do cronograma e do orçamento. A tramitação deverá observar a natureza de cada proposta e respeitar as competências da Coordenação de Extensão, das Comissões Assessoras, da Congregação, da ProEEC, da Inova Unicamp, da Funcamp, da Procuradoria-Geral e das demais instâncias envolvidas.
 
-- estimular o oferecimento de cursos de difusão científica e tecnológica;
+Os convênios de Pesquisa, Desenvolvimento e Inovação (PD&I), por sua natureza, continuarão sendo conduzidos pela área de Pesquisa. A Extensão poderá atuar de forma integrada quando esses projetos também envolverem transferência de conhecimento, prestação de serviços, formação profissional ou impacto direto na sociedade. Essa articulação evitará sobreposição de competências e permitirá que cada proposta seja encaminhada pela área responsável.
 
-- aumentar e estreitar a interação de empresas da região com a FT;
+Também buscaremos incentivar os docentes da FT a apresentar e liderar tecnicamente projetos de PD&I, sempre em articulação com a área de Pesquisa e com a Inova Unicamp. A liderança docente é fundamental para assegurar a qualidade científica e técnica, vincular os projetos às competências da Faculdade e criar oportunidades de participação para estudantes e demais integrantes das equipes.
 
-- promover _workshops_ com empresas e associações setoriais para expor os serviços disponíveis e as pesquisas realizadas na FT;
+## Prestação de Serviços
 
-- ampliar a divulgação da extensão da FT de forma que seja centralizada em um _site_ específico com reportagens curtas sobre os projetos, programas e outras atividades sendo desenvolvidas.
+Um dos eixos prioritários será o fortalecimento da prestação de serviços especializados pelos laboratórios da FT. A unidade dispõe de conhecimento técnico, equipamentos e estruturas que podem atender, dentro de sua capacidade operacional, demandas de órgãos públicos, empresas, pesquisadores e outras instituições.
+
+Buscaremos apoiar os laboratórios interessados na estruturação de serviços como análises, ensaios, medições, caracterizações, avaliações técnicas, processamento de dados, consultorias e utilização de equipamentos de grande porte. Para isso, será necessário identificar os serviços que podem ser oferecidos e definir responsáveis técnicos, capacidade de atendimento, procedimentos, custos, prazos e critérios de qualidade e segurança.
+
+Também pretendemos organizar e divulgar um catálogo institucional de serviços, ampliando a visibilidade das competências da FT e facilitando o contato com possíveis parceiros. A oferta deverá respeitar as normas da Unicamp, as atribuições profissionais, a disponibilidade das equipes e a prioridade das atividades de ensino e pesquisa.
+
+A prestação de serviços pode gerar taxas institucionais e recursos extraorçamentários. Quando permitido pelas normas e previsto nos respectivos instrumentos, esses recursos poderão contribuir para a manutenção, a calibração e a modernização dos equipamentos, a aquisição de insumos e o aperfeiçoamento da infraestrutura dos laboratórios. Os planos de trabalho também poderão prever recursos para formação das equipes e participação em eventos científicos, desde que essas despesas sejam compatíveis com os objetivos do projeto e estejam devidamente autorizadas.
+
+## Mostra de Extensão da FT
+
+Incentivaremos a continuidade e o fortalecimento da Mostra de Extensão da FT como espaço de divulgação, integração e reconhecimento das ações desenvolvidas pela comunidade. A iniciativa deverá ampliar a visibilidade dos projetos, programas, cursos, parcerias e serviços realizados pela Faculdade e favorecer o diálogo com a sociedade.
+
+Buscaremos estimular a participação de docentes, servidores e estudantes, além de aproximar instituições públicas, empresas, organizações sociais, escolas e demais parceiros. A Mostra também poderá contribuir para identificar novas demandas, estabelecer parcerias e demonstrar o impacto social, tecnológico, ambiental e educacional das atividades da FT.
+
+# Ações Prioritárias
+
+Para fortalecer a extensão, buscaremos:
+
+- mapear os projetos, programas, competências, laboratórios e serviços existentes;
+
+- incentivar a criação de convênios de cooperação e de extensão;
+
+- apoiar os docentes na elaboração e na tramitação das propostas;
+
+- fortalecer a articulação com a ProEEC, a Inova Unicamp, a Funcamp e os demais órgãos responsáveis;
+
+- integrar as áreas de Extensão e Pesquisa nos projetos que envolvam competências compartilhadas;
+
+- ampliar a prestação de serviços pelos laboratórios e equipamentos de grande porte;
+
+- organizar e divulgar um catálogo institucional de serviços;
+
+- promover encontros com órgãos públicos, empresas e organizações sociais;
+
+- incentivar a participação dos estudantes nas atividades de extensão;
+
+- buscar recursos externos para projetos e para a modernização dos laboratórios;
+
+- acompanhar e divulgar os resultados e os impactos das ações realizadas;
+
+- incentivar a continuidade e o aperfeiçoamento da Mostra de Extensão da FT.
+
+Com essas ações, pretendemos consolidar a extensão como espaço de integração entre a Universidade e a sociedade, ampliando a contribuição da FT para o desenvolvimento regional, a formação dos estudantes e o fortalecimento dos laboratórios e projetos da Faculdade.
