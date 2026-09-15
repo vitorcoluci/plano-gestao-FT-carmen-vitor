@@ -10,7 +10,7 @@ A infraestrutura da FT é composta, em grande parte, por prédios e instalaçõe
 Nos últimos anos, temos buscado atender continuamente às necessidades dos laboratórios de ensino e pesquisa, das salas de aula e dos espaços administrativos e de convivência. Para apresentar de forma objetiva os resultados alcançados, as melhorias poderão ser organizadas da seguinte maneira:
 
 
-1) Melhorias concluídas pela atual gestão:
+1) **Melhorias concluídas pela atual gestão**:
 
 - modernização da Biblioteca da FT;
 
@@ -25,7 +25,7 @@ Nos últimos anos, temos buscado atender continuamente às necessidades dos labo
 
 - melhorias relacionadas à acessibilidade e à segurança: [detalhar];
 
-2) Projetos encaminhados ou em andamento:
+2) **Projetos encaminhados ou em andamento**:
 
 - recuperação ou substituição dos telhados: [informar prédios, situação atual e próximas etapas];
 
