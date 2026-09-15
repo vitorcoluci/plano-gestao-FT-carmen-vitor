@@ -18,11 +18,11 @@ Entendemos que uma gestão moderna exige não apenas processos eficientes, mas t
 
 ## Quadro de Servidores Técnico-Administrativos e Docentes
 
-Entre 2023 e 2026, conseguimos quatro novos cargos PAEPE, com muito empenho por parte da direção. Hoje nosso quadro PAEPE conta com 44 servidores (Figura 3), divididos entre as seções administrativas, biblioteca e atendimento aos laboratórios. Nesse quadro, temos 1 servidor afastado e 1 aguardando transferência para a FT, e ainda, servidores que nos próximos anos entrarão com pedido de aposentadoria.
+Entre 2023 e 2026, conseguimos quatro novos cargos PAEPE, com muito empenho por parte da direção. Hoje nosso quadro PAEPE conta com 44 servidores (@fig-paepe), divididos entre as seções administrativas, biblioteca e atendimento aos laboratórios. Nesse quadro, temos 1 servidor afastado e 1 aguardando transferência para a FT, e ainda, servidores que nos próximos anos entrarão com pedido de aposentadoria.
 
 
 ::: {.centerText}
-![Quadro de servidores PAEPE da Faculdade de Tecnologia.](figs/servidores-paepe.png){width=80%}
+![Quadro de servidores PAEPE da Faculdade de Tecnologia.](figs/servidores-paepe.png){#fig-paepe width=80%}
 :::
 
 
@@ -32,17 +32,17 @@ Já conhecemos os caminhos institucionais e sabemos o que precisa ser feito. Nos
 
 Em relação ao Quadro de Docentes (QD), tivemos diversas aposentadorias nos últimos anos, que não foram repostas. Ocorreram distribuições de novos cargos docentes para as faculdades e institutos, e a FT sempre foi bastante ativa nas discussões, ficando entre as unidades que se destacaram número de cargos concedidos (carreira MS).
 
-Atualmente, temos **78 docentes ativos**, e se considerarmos três contratações em andamento (1 para a área ambiental e 2 para o curso de inteligência artificial), teremos no início de 2026, 81 docentes. Temos ainda, três cargos que estão aguardando abertura de concurso, que não foram contabilizados. 
+Atualmente, temos **78 docentes ativos**, e se considerarmos três contratações em andamento (1 para a área ambiental e 2 para o curso de inteligência artificial), teremos no início de 2026, 81 docentes (@fig-docente). Temos ainda, três cargos que estão aguardando abertura de concurso, que não foram contabilizados. 
 
 ::: {.centerText}
-![Quadro de docentes e sua distribuição por áreas.](figs/docentes-por-area.png){width=80%}
+![Quadro de docentes e sua distribuição por áreas.](figs/docentes-por-area.png){#fig-docente width=80%}
 :::
 
-Também tivemos, na atual gestão, um aumento expressivo no número de professores titulares. Foram realizados sete concursos, encerrando 2026 com uma distribuição mais equilibrada de professores titulares entre as diferentes áreas da FT (Figura 5).
+Também tivemos, na atual gestão, um aumento expressivo no número de professores titulares. Foram realizados sete concursos, encerrando 2026 com uma distribuição mais equilibrada de professores titulares entre as diferentes áreas da FT (@fig-titulares).
 
 
 ::: {.centerText}
-![Distribuição de professores titulares nas áreas da FT.](figs/titulares-por-area.png){width=80%}
+![Distribuição de professores titulares nas áreas da FT.](figs/titulares-por-area.png){#fig-titulares width=80%}
 :::
 
 
@@ -52,10 +52,10 @@ Ainda em relação ao QD, cabem algumas considerações importantes. Primeiro, b
 
 Uma segunda consideração diz respeito à necessidade de estabelecermos **critérios transparentes para a contratação de docentes**. A distribuição das vagas deverá considerar, entre outros aspectos, a oferta de disciplinas nos cursos de graduação, incluindo as disciplinas de serviço; a distribuição da carga didática dos docentes entre graduação e pós-graduação; o número de cursos atendidos por cada área; o número de estudantes envolvidos nas disciplinas; e as demandas decorrentes da expansão ou criação de novos cursos e áreas de atuação.
 
-Por fim, entendemos ser necessária a **atenção às carreiras docentes** da FT. Atualmente, nossa Unidade conta com duas carreiras: o Magistério Superior (MS) e o Magistério Tecnológico Superior (MTS) (Figura 6). 
+Por fim, entendemos ser necessária a **atenção às carreiras docentes** da FT. Atualmente, nossa Unidade conta com duas carreiras: o Magistério Superior (MS) e o Magistério Tecnológico Superior (MTS) (@fig-mts). 
 
 ::: {.centerText}
-![Número de docentes nas carreiras MTS e MS na FT, por nível[^3].](figs/mts-ms.png){width=80%}
+![Número de docentes nas carreiras MTS e MS na FT, por nível[^3].](figs/mts-ms.png){#fig-mts width=80%}
 :::
 
 [^3]: Dados obtidos do painel de dados para apoio à tomada de decisão do Escritório de Dados e Apoio à Transformação (Edat).

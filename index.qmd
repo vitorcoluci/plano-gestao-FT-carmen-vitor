@@ -17,11 +17,11 @@ Na FT de hoje, nós, **Carmen** e **Vitor**, unimos nossos esforços, nossa matu
 
 ***Essa candidatura nasce da união de nossas experiências em gestão na FT e do sonho de construir, juntos, uma faculdade cada vez mais integrada, participativa e comprometida com a eficiência e a excelência no ensino, na pesquisa, na extensão e na gestão institucional. Uma faculdade que tenha, como alicerces fundamentais, o respeito, a valorização das pessoas e o reconhecimento de que são elas que constroem, todos os dias, a nossa instituição.***
 
-Nossa proposta é exercer, na Direção da FT, uma gestão com Princípios e Valores (Figura 1) apoiados no **diálogo**, na **colaboração** e no **planejamento**, atuando como facilitadores dos processos institucionais e criando as condições necessárias para que docentes e servidores técnico-administrativos possam desempenhar suas atividades com autonomia, eficiência e excelência. 
+Nossa proposta é exercer, na Direção da FT, uma gestão com Princípios e Valores (@fig-valores) apoiados no **diálogo**, na **colaboração** e no **planejamento**, atuando como facilitadores dos processos institucionais e criando as condições necessárias para que docentes e servidores técnico-administrativos possam desempenhar suas atividades com autonomia, eficiência e excelência. 
 
 
 ::: {.centerText}
-![](figs/valores.jpeg){width=80%}
+![Princípios e valores da gestão.](figs/valores.jpeg){#fig-valores width=80%}
 :::
 
 Entendemos que uma gestão eficaz deve apoiar as pessoas, remover obstáculos e promover um ambiente favorável ao ensino, à pesquisa, à extensão e à inovação.
@@ -42,10 +42,10 @@ Os próximos anos trazem novos desafios e, ao mesmo tempo, grandes oportunidades
 
 Minha atuação como Diretora Associada permitiu construir uma relação próxima com a Reitoria, a Coordenadoria Geral da Universidade (CGU), as Pró-Reitorias, as Diretorias Executivas e os demais órgãos da Administração Central. A FT também conta atualmente com assessores que representam a unidade e acompanham demandas institucionais junto à Administração Central da Universidade. Pretendemos preservar e fortalecer essa articulação para dar visibilidade às necessidades da FT, agilizar processos e ampliar a obtenção de recursos e de apoio técnico, administrativo e institucional.
 
-Nosso Plano de Gestão foi pensado a partir de Eixos Estratégicos (Figura 2), os quais representam um compromisso com a consolidação de uma FT cada vez mais integrada, inovadora, inclusiva e socialmente comprometida, fortalecendo sua identidade institucional e ampliando seu protagonismo dentro e fora da UNICAMP. 
+Nosso Plano de Gestão foi pensado a partir de Eixos Estratégicos (@fig-eixos), os quais representam um compromisso com a consolidação de uma FT cada vez mais integrada, inovadora, inclusiva e socialmente comprometida, fortalecendo sua identidade institucional e ampliando seu protagonismo dentro e fora da UNICAMP. 
 
 ::: {.centerText}
-![](figs/eixos.png){width=80%}
+![Eixos estratégicos da gestão.](figs/eixos.png){#fig-eixos width=80%}
 :::
 
 Este Plano de Gestão nasce desse compromisso. Fundamenta-se na convicção de que uma gestão participativa, transparente, acolhedora e baseada no respeito às pessoas é capaz de potencializar talentos, fortalecer relações de confiança e criar as condições necessárias para que toda a comunidade acadêmica desenvolva plenamente suas atividades. Acreditamos que as melhores soluções surgem da escuta ativa, do trabalho colaborativo e da valorização das diferentes experiências e perspectivas que compõem a nossa Unidade.
