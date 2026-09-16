@@ -1,12 +1,10 @@
 
 ::: {.centerText}
-![](figs/foto-FT.png){width=90%}
+![](figs/foto-FT.png){width=100%}
 :::
 
 
-## Experiência para Avançar...
-
-**Profa. Carmenlucia Santos Giordano Penteado e Prof. Vitor R. Coluci**
+## Experiência para Avançar
 
 Em 2029, a Faculdade de Tecnologia (FT) celebrará duas décadas de uma trajetória marcada por crescimento, inovação e excelência acadêmica. Desde a sua criação, com a transformação do Centro Superior de Educação Tecnológica (CESET) em uma Unidade de Ensino, Pesquisa e Extensão da UNICAMP, a FT consolidou-se como uma instituição de referência, ampliando de forma significativa suas atividades e seu quadro de funcionários.
 
@@ -53,3 +51,5 @@ Este Plano de Gestão nasce desse compromisso. Fundamenta-se na convicção de q
 ***"A criação da proposta com base nesses eixos foi pensada para suprir, em parte, necessidades de melhoria apontadas na última avaliação interna."***
 
 Convidamos toda a comunidade da FT a participar dessa construção coletiva. Com diálogo, responsabilidade, respeito e espírito colaborativo, queremos consolidar uma gestão que valorize as pessoas, incentive a excelência acadêmica e administrativa, e prepare a nossa Faculdade para enfrentar os desafios do presente e do futuro, preservando seu compromisso com a formação de profissionais, com a produção de conhecimento e com a transformação da sociedade.
+
+**Profa. Carmenlucia Santos Giordano Penteado e Prof. Vitor R. Coluci**

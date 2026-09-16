@@ -4,10 +4,9 @@ project:
   preview: 
     port: 4321
 
-
 book:
-  title: "Plano de Gestão FT - 2027-2030"
-  subtitle: "Carmem & Vitor"
+  title: "Plano de Gestão FT - Carmem & Vitor"
+  author: "Carmem & Vitor"
   date: "09/17/2026"
   chapters:
     - index.qmd
@@ -20,12 +19,10 @@ book:
     - pesquisa.qmd
     - extensao.qmd
     - infra.qmd
-  navbar:
-    search: false
 
 format:
   html:
-    fontsize: "1.3em"
+    fontsize: "1.4em"
     lang: pt
     page-layout: full
     theme: [flatly, custom.scss]

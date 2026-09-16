@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 4321
+
+    
+website:
+  title: "Plano de Gestão FT - Carmem & Vitor"
+  navbar:
+    left:     
+      - href: quem-somos.qmd
+        text: Quem somos 
+      - href: comunicacao.qmd
+        text: Comunicação Institucional
+      - href: gestao.qmd
+        text: Gestão de pessoas
+      - href: direitos-humanos.qmd
+        text: Direitos humanos
+      - href: graduacao.qmd
+        text: Graduação
+      - href: pos-graduacao.qmd
+        text: Pós-graduação
+      - href: pesquisa.qmd
+        text: Pesquisa
+      - href: extensao.qmd
+        text: Extensão
+      - href: infra.qmd
+        text: Infraestrutura
+      
+  page-footer:
+    "Plano de Gestão FT - Carmem & Vitor - 2026"
+
+
+format:
+  html:
+    fontsize: "1.4em"
+    lang: pt
+    page-layout: full
+    theme: [flatly, custom.scss]
+    css: 
+       - styles.css
+    toc: true
+
+
+
