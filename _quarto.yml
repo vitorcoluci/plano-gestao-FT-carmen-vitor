@@ -7,7 +7,7 @@ project:
 
 book:
   title: "Plano de Gestão FT - 2027-2030"
-  subtitle: "Carmem & Vitor"
+  subtitle: "Carmen & Vitor"
   date: "09/17/2026"
   chapters:
     - index.qmd
