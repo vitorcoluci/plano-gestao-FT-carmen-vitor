@@ -20,6 +20,7 @@ book:
     - pesquisa.qmd
     - extensao.qmd
     - infra.qmd
+    - pdf.qmd
   navbar:
     search: false
 
