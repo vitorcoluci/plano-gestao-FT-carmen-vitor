@@ -21,6 +21,7 @@ book:
     - extensao.qmd
     - infra.qmd
     - pdf.qmd
+    - respostas-debate.qmd
   navbar:
     search: false
 
